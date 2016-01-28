@@ -49,4 +49,8 @@ public enum DesktopThings {
         }
     };
 
+
+    public String toString(String s1) {
+        return "DesktopThings{}";
+    }
 }

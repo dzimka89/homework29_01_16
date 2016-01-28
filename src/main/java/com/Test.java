@@ -30,7 +30,7 @@ public class Test {
                 break;
             case BOOK:
                 System.out.println("I want to take " + desktopBook.toString());
-               // System.out.println(desktopBook.toString("Hello"));   ме лнцс онмърэ онвелс ме лнцс хяонкэгнбюрэ оепецпсгйс, йнрнпсч ъ б BOOK опнохяюк))??
+                System.out.println(desktopBook.toString("Hello"));  // ме лнцс онмърэ онвелс ме лнцс хяонкэгнбюрэ оепецпсгйс, йнрнпсч ъ б BOOK опнохяюк))??
                 break;
 
         }
